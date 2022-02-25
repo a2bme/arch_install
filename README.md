@@ -1,1 +1,2 @@
-Arch installation script made by my friend Glizzster
+Arch installation script made by my friend Glizzster.
+Big thanks to Glizzster :)
